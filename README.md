@@ -1,4 +1,4 @@
-# Pong
+# PongSolo
 
 Il s'agit d'un projet personnel fait juste aprés avoir commencer à apprendre la création de JPanel lors de ma premiere année de DUT Informatique en parallele avec mon projet TestSprite. 
 
